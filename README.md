@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/bd62216f-61c4-4aab-a803-deb2fa71f64a)
 
 # 🛒 Supermercado con Inventario - Backend
 
